@@ -1,0 +1,20 @@
+.selected{
+    background-color: cornflowerblue;
+}
+
+.solved-0{
+    background-color: #6f1111;
+    color: white;
+}
+.solved-1{
+    background-color: #116f11;
+    color: white;
+}
+.solved-2{
+    background-color: #11116f;
+    color: white;
+}
+.solved-3{
+    background-color: #6f116f;
+    color: white;
+}
